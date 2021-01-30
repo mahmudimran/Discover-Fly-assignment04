@@ -7,7 +7,7 @@
 }
 body{
     font-family: 'Roboto', sans-serif;
-    background-image:url("./images/bgfly.png");
+    background-image:url("../images/bgfly.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: scroll;
